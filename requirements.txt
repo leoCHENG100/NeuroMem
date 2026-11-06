@@ -1,0 +1,14 @@
+# Python 3.12 on Linux. pyautogen supplies the imported autogen namespace.
+pyautogen==0.2.10
+openai==2.13.0
+httpx[socks]==0.28.1
+numpy==2.2.6
+pandas==2.3.3
+torch==2.9.0
+sentence-transformers==5.2.0
+transformers==4.57.3
+huggingface-hub==0.36.0
+sentencepiece==0.2.1
+Levenshtein==0.23.0
+termcolor==2.4.0
+wolframalpha==5.0.0
